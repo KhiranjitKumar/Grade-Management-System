@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+ body{
+    background-color: rgb(153, 163, 221) ;
+    background-image: url(background2.jpg);
+    background-position:center;
+    background-size: cover;
+    text: size adjust 54px; ;
+
+}
+div{
+    font-size:x-large;
+    text-align: center;
+}
+.n{
+    font-family:'Monserrat';
+   text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    font-size: large;
+    transform: translateY(-50%,-50%);
+}
+.x{
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    font-size:x-large;
+    margin: 0;
+    position: center;
+    top: 30%;
+    left: 20%;
+    transform: translateY(-50%,-50%);
+}
+.s{
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    font-size:small;
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 3px;
+    transform: translateY(-50%,-50%);
+}
+.butn{
+   font-family: 'Montserrat';
+   text-transform: uppercase;
+    font-size: x-large;
+    margin: 0;
+    position: center;
+    top: 50%;
+    left: 50%;
+    text-transform: uppercase;
+    transform: translateY(-50%,-50%);
+}
+
+a:hover {
+    background-color: rgb(209, 33, 165);
+}
+
+ .centeredtable {
+ text-align: center;
+ }
+
+
